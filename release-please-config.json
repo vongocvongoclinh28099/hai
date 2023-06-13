@@ -1,0 +1,14 @@
+{
+  "packages": {
+    ".": {},
+    "packages/branding": {},
+    "packages/bridge-ui": {},
+    "packages/eventindexer": {},
+    "packages/fork-diff": {},
+    "packages/protocol": {},
+    "packages/relayer": {},
+    "packages/status-page": {},
+    "packages/website": {},
+    "packages/whitepaper": {}
+  }
+}
